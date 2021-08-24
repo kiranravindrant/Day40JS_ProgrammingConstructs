@@ -13,7 +13,7 @@ if(Month>3 && Month < 6){
 
     console.log("Month is True")
 
-    if(datw>20 && date<31)
+    if(date>20 && date<31)
     {
         console.log(" Date is True")
 

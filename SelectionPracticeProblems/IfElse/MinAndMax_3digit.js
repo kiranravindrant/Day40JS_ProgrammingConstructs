@@ -2,8 +2,11 @@ let n=6;
 let arr=[n]
 
 for (let roll =1; roll<=n; roll++){
-   let output=Math.floor(100+Math.random() *899);
-   
+   let output=Math.floor(100+Math.random() *899);         
+
+
+                                                               
+
    arr[roll]=output
 
    console.log(arr[roll])
